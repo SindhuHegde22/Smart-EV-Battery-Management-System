@@ -70,7 +70,7 @@ The architecture is designed to simulate real-world EV swap station workflows wi
 
 The following block diagram illustrates the high-level integration of sensors, the ESP32 controller, and the cloud-based data logging system.
 
-![System Block Diagram](assets/system_architecture.png)
+![System Block Diagram](./assets/system_architecture.jpeg)
 
 ---
 
@@ -123,7 +123,7 @@ Smart-EV-Battery-Management-System/
 
 The hardware implementation integrates ESP32, RFID modules, relays, voltage sensors, and LCD display modules for automated control and monitoring.
 
-![Hardware Connection](assets/hardware_connection.jpg)
+![Hardware Connection](./assets/hardware_connection.jpeg)
 
 ---
 
@@ -131,7 +131,7 @@ The hardware implementation integrates ESP32, RFID modules, relays, voltage sens
 
 The LCD module displays battery information, authentication status, and local server connectivity information.
 
-![LCD Output](assets/lcd_display_output.jpg)
+![LCD Output](./assets/lcd_display_output.jpeg)
 
 ---
 
@@ -139,7 +139,7 @@ The LCD module displays battery information, authentication status, and local se
 
 The onboard ESP32 server hosts a real-time battery slot booking and monitoring interface.
 
-![Web UI](assets/web_server_ui.png)
+![Web UI](./assets/web_server_ui.jpeg)
 
 ---
 
@@ -147,7 +147,7 @@ The onboard ESP32 server hosts a real-time battery slot booking and monitoring i
 
 Battery transactions and energy usage data are synchronized to cloud storage for transparency and analytics.
 
-![Transaction Log](assets/transaction_log_sheet.png)
+![Transaction Log](./assets/transaction_log_sheet.jpeg)
 
 ---
 
@@ -161,7 +161,7 @@ The demonstration showcases:
 - Cloud database synchronization
 - Real-time web interface interaction
 
-[▶ Watch Project Demonstration](assets/energy_tag_demo.mp4)
+[▶ Watch Project Demonstration](./assets/energy_tag_demo.mp4)
 
 ---
 
